@@ -1,0 +1,8 @@
+streamlit==1.28.0
+langchain==0.0.346
+openai==0.28.0
+pypdf==3.15.0
+faiss-cpu==1.7.4
+tiktoken==0.5.1
+python-dotenv==1.0.0
+altair==5.1.2
